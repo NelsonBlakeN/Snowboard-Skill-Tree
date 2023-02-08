@@ -1,0 +1,90 @@
+[
+    {
+        "id": "frontShifty",
+        "title": "Front shifty",
+        "tooltip": {
+            "content": ""
+        },
+        "children": [
+            {
+                "id": "front180",
+                "title": "Front 180",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": [
+                    {
+                        "id": "back180",
+                        "title": "Back 180",
+                        "tooltip": {
+                            "content": ""
+                        },
+                        "children": [
+                            {
+                                "id": "delayBack180",
+                                "title": "Delay back 180",
+                                "tooltip": {
+                                    "content": ""
+                                },
+                                "children": [
+                                ]
+                            },
+                            {
+                                "id": "switchBack180",
+                                "title": "Switch back 180",
+                                "tooltip": {
+                                    "content": ""
+                                },
+                                "children": [
+                                    {
+                                        "id": "Front 360",
+                                        "title": "Front 360",
+                                        "tooltip": {
+                                            "content": ""
+                                        },
+                                        "children": [
+                                            {
+                                                "id": "back360",
+                                                "title": "Back 360",
+                                                "tooltip": {
+                                                    "content": ""
+                                                },
+                                                "children": []
+                                            },
+
+                                            {
+                                                "id": "millerFlip",
+                                                "title": "Miller Flip",
+                                                "tooltip": {
+                                                    "content": ""
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "switch180",
+                        "title": "Switch 180",
+                        "tooltip": {
+                            "content": ""
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "backShifty",
+                "title": "Back shifty",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": [
+                ]
+            }
+        ]
+    }
+]

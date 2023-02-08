@@ -1,0 +1,77 @@
+[
+    {
+        "id": "tailPress",
+        "title": "Tail press",
+        "tooltip": {
+            "content": ""
+        },
+        "children": [
+            {
+                "id": "tripod",
+                "title": "Tripod",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": []
+            },
+            {
+                "id": "horizontalTailPress",
+                "title": "Horizontal tail press",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": []
+            },
+            {
+                "id": "pretzel",
+                "title": "Pretzel",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": []
+            },
+            {
+                "id": "nosePress",
+                "title": "Nose press",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": [
+                    {
+                        "id": "horizontalNosePress",
+                        "title": "Horizontal nose press",
+                        "tooltip": {
+                            "content": ""
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "tailRoll",
+                "title": "Tail roll",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": [
+                    {
+                        "id": "noseRoll",
+                        "title": "Nose roll",
+                        "tooltip": {
+                            "content": ""
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "laybackButter",
+                "title": "Layback Butter",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": []
+            }
+        ]
+    }
+]

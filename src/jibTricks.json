@@ -1,0 +1,211 @@
+[
+    {
+        "id": "box5050",
+        "title": "Box 50/50",
+        "tooltip": {
+            "content": ""
+        },
+        "children": [
+            {
+                "id": "rail5050",
+                "title": "Rail 50/50",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": [
+                ]
+            },
+            {
+                "id": "switchBox5050",
+                "title": "Switch box 50/50",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": [
+                ]
+            },
+            {
+                "id": "frontBoxBoardSlide",
+                "title": "Front box board slide",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": [
+                    {
+                        "id": "frontRailBoardSlide",
+                        "title": "Front rail board slide",
+                        "tooltip": {
+                            "content": ""
+                        },
+                        "children": [
+                            {
+                                "id": "backRailBoardSlide",
+                                "title": "Back rail board slide",
+                                "tooltip": {
+                                    "content": ""
+                                },
+                                "children": [
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "backBoxBoardSlide",
+                        "title": "Back box board slide",
+                        "tooltip": {
+                            "content": ""
+                        },
+                        "children": [
+                            {
+                                "id": "backRailBoardSlide",
+                                "title": "Back rail board slide",
+                                "tooltip": {
+                                    "content": ""
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "frontBoxBluntslide",
+                        "title": "Front box bluntslide",
+                        "tooltip": {
+                            "content": "See also: tailslide."
+                        },
+                        "children": [
+                            {
+                                "id": "frontRailBluntslide",
+                                "title": "Front rail bluntslide",
+                                "tooltip": {
+                                    "content": ""
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "backBoxBluntslide",
+                                "title": "Back box bluntslide",
+                                "tooltip": {
+                                    "content": ""
+                                },
+                                "children": [
+                                    {
+                                        "id": "backRailBluntslide",
+                                        "title": "Back rail bluntslide",
+                                        "tooltip": {
+                                            "content": ""
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "frontBoxLipslide",
+                "title": "Front box lipslide",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": [
+                    {
+                        "id": "backBoxLipslide",
+                        "title": "Back box lipslide",
+                        "tooltip": {
+                            "content": ""
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "frontRailLipslide",
+                        "title": "Front rail lipslide",
+                        "tooltip": {
+                            "content": ""
+                        },
+                        "children": [
+                            {
+                                "id": "backRailLipslide",
+                                "title": "Back rail lipslide",
+                                "tooltip": {
+                                    "content": ""
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "frontBoxNoseblunt",
+                        "title": "Front box Noseblunt",
+                        "tooltip": {
+                            "content": ""
+                        },
+                        "children": [
+
+                            {
+                                "id": "backBoxNoseblunt",
+                                "title": "Back box noseblunt",
+                                "tooltip": {
+                                    "content": ""
+                                },
+                                "children": []
+                            },
+
+                            {
+                                "id": "frontRailNoseblunt",
+                                "title": "Front rail noseblunt",
+                                "tooltip": {
+                                    "content": ""
+                                },
+                                "children": [
+                                    {
+                                        "id": "backRailNoseblunt",
+                                        "title": "Back rail noseblunt",
+                                        "tooltip": {
+                                            "content": ""
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "boxTailPress",
+                "title": "Box tail press",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": [
+                    {
+                        "id": "railTailPress",
+                        "title": "Rail tail press",
+                        "tooltip": {
+                            "content": ""
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "boxNosePress",
+                "title": "Box nose press",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": [
+                    {
+                        "id": "railNosePress",
+                        "title": "Rail nose press",
+                        "tooltip": {
+                            "content": ""
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    }
+]

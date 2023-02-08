@@ -1,0 +1,54 @@
+[
+    {
+        "id": "boardStall",
+        "title": "Board stall",
+        "tooltip": {
+            "content": ""
+        },
+        "children": [
+            {
+                "id": "noseStall",
+                "title": "Nose stall",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": [
+                    {
+                        "id": "nosePick",
+                        "title": "Nose pick",
+                        "tooltip": {
+                            "content": ""
+                        },
+                        "children": [
+                            {
+                                "id": "noseBlock",
+                                "title": "Nose block",
+                                "tooltip": {
+                                    "content": ""
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "tailStall",
+                "title": "Tail stall",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": [
+                    {
+                        "id": "tailBlock",
+                        "title": "Tail block",
+                        "tooltip": {
+                            "content": ""
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    }
+]

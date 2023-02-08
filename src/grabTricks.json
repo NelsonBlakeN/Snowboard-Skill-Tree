@@ -1,0 +1,315 @@
+[
+    {
+        "id": "indy",
+        "title": "Indy",
+        "tooltip": {
+            "content": ""
+        },
+        "children": [
+            {
+                "id": "crail",
+                "title": "Crail",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": [
+                    {
+                        "id": "tindy",
+                        "title": "Tindy",
+                        "tooltip": {
+                            "content": ""
+                        },
+                        "children": [
+                            {
+                                "id": "Super mindy",
+                                "title": "Super mindy",
+                                "tooltip": {
+                                    "content": "Also requires slob"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "tailGrab",
+                        "title": "Tail grab",
+                        "tooltip": {
+                            "content": ""
+                        },
+                        "children": [
+                            {
+                                "id": "stalefish",
+                                "title": "Stalefish",
+                                "tooltip": {
+                                    "content": ""
+                                },
+                                "children": [
+                                    {
+                                        "id": "roastBeef",
+                                        "title": "Roast beef",
+                                        "tooltip": {
+                                            "content": ""
+                                        },
+                                        "children": [
+                                            {
+                                                "id": "rustyTrombone",
+                                                "title": "Rusty trombone",
+                                                "tooltip": {
+                                                    "content": "Also requires nose grab"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "id": "swissCheeseAir",
+                                                "title": "Swiss cheese air",
+                                                "tooltip": {
+                                                    "content": ""
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "id": "beefCarpaccio",
+                                                "title": "Beef carpaccio",
+                                                "tooltip": {
+                                                    "content": ""
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "drunkDriver",
+                                        "title": "Drunk driver",
+                                        "tooltip": {
+                                            "content": "Also requires mute"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "tailfish",
+                                "title": "Tailfish",
+                                "tooltip": {
+                                    "content": ""
+                                },
+                                "children": [
+                                    {
+                                        "id": "squirrel",
+                                        "title": "Squirrel",
+                                        "tooltip": {
+                                            "content": ""
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "ufo",
+                                "title": "UFO",
+                                "tooltip": {
+                                    "content": "Also known as Cannonball. Also requires nose grab"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "nuclear",
+                        "title": "Nuclear",
+                        "tooltip": {
+                            "content": "Also: A B"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "truckDriver",
+                "title": "Tricker driver",
+                "tooltip": {
+                    "content": "Also requires melon"
+                },
+                "children": []
+            },
+            {
+                "id": "Stiffy",
+                "title": "Stiffy",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "melon",
+        "title": "Melon",
+        "tooltip": {
+            "content": ""
+        },
+        "children": [
+            {
+                "id": "lien",
+                "title": "Lien",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": [
+                    {
+                        "id": "rocketAir",
+                        "title": "Rocket air",
+                        "tooltip": {
+                            "content": "Also requires crail."
+                        },
+                        "children": [
+                            {
+                                "id": "crossRocket",
+                                "title": "crossRocket",
+                                "tooltip": {
+                                    "content": ""
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "noseGrab",
+                "title": "Nose grab",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": [
+                    {
+                        "id": "mute",
+                        "title": "Mute",
+                        "tooltip": {
+                            "content": ""
+                        },
+                        "children": [
+                            {
+                                "id": "taipan",
+                                "title": "Taipan",
+                                "tooltip": {
+                                    "content": ""
+                                },
+                                "children": [
+                                    {
+                                        "id": "canadianBacon",
+                                        "title": "Canadian bacon",
+                                        "tooltip": {
+                                            "content": ""
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "japanAir",
+                                "title": "Japan Air",
+                                "tooltip": {
+                                    "content": ""
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "slob",
+                        "title": "Slob",
+                        "tooltip": {
+                            "content": ""
+                        },
+                        "children": [
+                            {
+                                "id": "gorilla",
+                                "title": "Gorilla",
+                                "tooltip": {
+                                    "content": "Also requires indy"
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "China air",
+                                "title": "China air",
+                                "tooltip": {
+                                    "content": ""
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "seatbelt",
+                        "title": "Seatbelt",
+                        "tooltip": {
+                            "content": ""
+                        },
+                        "children": [
+                            {
+                                "id": "perfect",
+                                "title": "Perfect",
+                                "tooltip": {
+                                    "content": "Front leg boned"
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "pickpocket",
+                                "title": "Pickpocket",
+                                "tooltip": {
+                                    "content": ""
+                                },
+                                "children": [
+                                    {
+                                        "id": "bloodyDracula",
+                                        "title": "Bloody dracula",
+                                        "tooltip": {
+                                            "content": ""
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "method",
+                "title": "Method",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": [
+                    {
+                        "id": "staleMethod",
+                        "title": "Stale method",
+                        "tooltip": {
+                            "content": ""
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "chickenSalad",
+                "title": "Chicken salad",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": []
+            },
+            {
+                "id": "watermelon",
+                "title": "Watermelon",
+                "tooltip": {
+                    "content": ""
+                },
+                "children": []
+            }
+        ]
+    }
+]
